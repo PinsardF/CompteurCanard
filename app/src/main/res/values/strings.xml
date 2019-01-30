@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CompteurCanard</string>
+    <string name="text">Forever Tonight</string>
+    <string name="resource_Michel">0</string>
+    <string name="random_heading">Random number of ducks (0-%1d)</string>
+</resources>
